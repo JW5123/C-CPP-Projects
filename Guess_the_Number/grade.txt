@@ -1,1 +1,1 @@
-computer : player = 1 : 0
+computer : player = 0 : 0
