@@ -38,7 +38,6 @@ void PlayGame(){
             printf("Guess right!\n");
             break;
         }
-        //num--;
         printf("[%d] opportunities remaining\n", num);
     }
     if(!num){
@@ -102,4 +101,3 @@ int main(){
     }
     return 0;
 }
-//"║      3.Customize    ║\n"
